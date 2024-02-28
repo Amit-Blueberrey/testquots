@@ -1,16 +1,10 @@
 # testquots
 
-A new Flutter project.
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+About setting up Firebase Cloud Messaging (FCM) on iOS. However, there are some errors in our code because we used an older version of library code (flutter_local_notifications plugin) that does not detect some syntax errors in the new version. you need to correct it.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
