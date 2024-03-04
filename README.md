@@ -11,9 +11,9 @@ About setting up Firebase Cloud Messaging (FCM) on iOS. However, there are some 
    go to gmail -> got a mail from firebase project access mail
    email-    devloperforpushnotification@gmail.com  password- password@1234
   
-   # this is for developer access GitHub project access
+   ## this is for developer access GitHub project access
    GitHub- devloperforpushnotification@gmail.com  password- password@1234P
 
    
-   # this is project  file link
+   ## this is project  file link
    https://github.com/Amit-Blueberrey/testquots 
